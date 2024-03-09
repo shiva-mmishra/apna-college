@@ -1,4 +1,4 @@
 # apna-college
-this is my first reositiry
+this is my first repositiry
 <br>
 Author-shivam mishra
